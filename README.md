@@ -12,7 +12,7 @@ We use acoustic signals from lab-simulated earthquakes to estimate when failure 
 
 ## Learn More  
 For a full explanation of the project, check out:  
-- [Our Paper](paper.pdf)  
+- [Our Paper](f_paper.pdf)  
 - [Our Presentation](presentation_slides.pdf)
 
 The code is experimental and not production-ready—it was built to test ideas and run experiments. 
